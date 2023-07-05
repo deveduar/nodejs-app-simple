@@ -1,0 +1,21 @@
+body {
+  background: #202020;
+  color: white;
+}
+
+.navbar-brand {
+  /* font-family: 'Spicy Rice', cursive; */
+  font-family: 'Neuton', serif;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  /* font-family: 'Spicy Rice', cursive; */
+  font-family: 'Neuton', serif;
+
+}
+
+header img {
+  width: 60%;
+}
